@@ -2,9 +2,6 @@
 
 A Python-based chat client that allows users to send and receive messages. The chat interactions are managed using API requests to an external service. Additionally, the application provides a graphical representation of the number of readable messages sent per user.
 
-![Chat Client Screenshot](screenshot.png) 
-*Sample screenshot of the application (replace with an actual screenshot)*
-
 ## Features:
 
 1. **User Identification**: Begin your chat session by setting sender and recipient names.
