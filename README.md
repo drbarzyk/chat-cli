@@ -33,7 +33,7 @@ A Python-based chat client that allows users to send and receive messages. The c
    ```
 4. Run the chat client:
    ```
-   python chat_client.py
+   python chat.py
    ```
 
 ## Usage:
